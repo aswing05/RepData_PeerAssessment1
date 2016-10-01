@@ -1,4 +1,10 @@
+
 #RepData peer Assesssment 1
+
+```{r global_options, include=TRUE}
+knitr::opts_chunk$set(fig.width=12, fig.height=8, fig.path='instructions_fig/',
+                      echo=TRUE)
+```
 
 ##Loading and preprocessing the data
 
